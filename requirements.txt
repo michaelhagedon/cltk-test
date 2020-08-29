@@ -1,0 +1,2 @@
+cltk==0.1.121
+greek-accentuation==1.2.0
